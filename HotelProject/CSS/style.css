@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+
+.section1 {
+    background-image: url(../Images/BackgroundImages/hotelimages48.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #fff;
+    font-size: 18px;
+}
+
+.dropdown-item {
+    color: rgba(228, 167, 10, 0.952);
+}
+
+.button1 {
+    color: black;
+    width: 70%;
+    height: 40px;
+}
+
+.text1 {
+    color: white;
+    font-size: 50px;
+}
+
+.text2 {
+    color: white;
+}
+
+label {
+    display: block;
+}
+
+.labe {
+    color: white;
+}
+
+.button2 {
+    color: white;
+    width: 90%;
+    height: 40px;
+    background-color: rgb(8, 66, 8);
+}
+
+.pt-5 {
+    padding-top: 5rem !important;
+}
+
+.ps-md-5 {
+    padding-left: 4rem !important;
+}
+
+.section3 {
+    background-image: url(../Images/BackgroundImages/hotelimages23.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.button3 {
+    color: white;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(8, 66, 8);
+}
+
+.map {
+    width: 30px;
+}
+
+.footer {
+    background-color: rgba(244, 117, 6, 0.817);
+}
+
+.mapimg {
+    width: 100%;
+}
