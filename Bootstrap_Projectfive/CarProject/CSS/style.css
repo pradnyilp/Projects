@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: none;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.back {
+    background-image: url(../Images/BackgroundImges/car-images03.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bg {
+    background-color: white;
+}
+
+.nav-item {
+    color: black;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: black;
+}
+
+.login {
+    color: white;
+}
+
+.sectionbutton1 {
+    background-color: rgba(76, 46, 212, 0.819);
+    color: white;
+}
+
+
+
+.load {
+    background-color: rgb(89, 89, 89);
+    color: black;
+}
+
+
+.navlogo {
+    width: 30px;
+    color: white;
+}
+
+
+.wel {
+    font-size: 40px;
+    color: white;
+}
+
+.auto {
+    font-size: 60px;
+    color: white;
+}
+
+.long {
+    color: white;
+}
+
+.top {
+    padding-top: 200px;
+}
+
+.hover div {
+    position: relative;
+    transform: scale(0);
+    transition: .3s ease-in-out;
+    bottom: 50px;
+}
+
+.hover:hover div {
+    transform: scale(1.2);
+}
+
+.hover div button {
+    background-color: white;
+    color: black;
+}
+
+.hover div:hover button {
+    background-color: black;
+    color: white;
+}
+
+.projects {
+    background-color: black;
+    color: white;
+}
