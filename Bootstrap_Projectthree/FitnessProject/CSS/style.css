@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: none;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.dimg1 {
+    background-image: url(../Images/BackgroundImges/fitnessimages23.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dimg2 {
+    background-image: url(../Images/BackgroundImges/fitnessimages24.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dimg3 {
+    background-image: url(../Images/BackgroundImges/fitnessimages25.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.clock {
+    width: 40px;
+}
+
+.mid-left {
+    position: absolute;
+    top: 25%;
+    padding-left: 20px;
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+}
+
+.login {
+    color: white;
+}
+
+.sectionbutton1 {
+    background-color: rgba(42, 38, 38, 0.819);
+    color: white;
+}
+
+button.sectionbutton1:hover {
+    border-color: black;
+    color: black;
+}
+
+button.sectionbutton2:hover {
+    border-color: greenyellow;
+    color: greenyellow;
+}
+
+.sectionbutton2 {
+    background-color: greenyellow;
+    color: white;
+}
+
+.services2 {
+    color: white;
+    font-size: 28px;
+}
+
+.services3 {
+    color: white;
+    font-size: 20px;
+}
+
+.ht {
+    height: 50vh;
+}
+
+.navpad {
+    padding-top: 100px;
+}
+
+.navlogo {
+    width: 40px;
+    color: white;
+}
+
+.fit {
+    background-color: black;
+    color: white;
+}
+
+.fitw {
+    width: 100%;
+}
+
+.practice {
+    color: greenyellow;
+}
+
+.fit1 {
+    background-color: rgba(0, 0, 0, 0.803);
+    color: white;
+}
+
+.fitimg1 {
+    background-image: url(../Images/BackgroundImges/fitnessimages24.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.fitimg2 {
+    background-image: url(../Images/BackgroundImges/fitnessimages27.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.push {
+    height: 100vh;
+}
+
+.commit {
+    background-image: url(../Images/BackgroundImges/fitnessimages29.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.fsp {
+    font-size: 80px;
+}
+
+.map {
+    background-color: rgba(0, 0, 0, 0.803);
+}
+
+.mapinfo {
+    background-color: rgba(0, 0, 0, 0.06);
+}
+
+.maplogo {
+    width: 20px;
+}
+
+.maplogo {
+    width: 30px;
+}
+
+.footer {
+    background-color: greenyellow;
+}
+
+.sectionbutton4 {
+    background-color: greenyellow;
+    color: white;
+}
+
+.mapimg {
+    width: 100%;
+}
+
+@media(min-width:768px) {
+    .services2 {
+        color: white;
+        font-size: 50px;
+    }
+}
