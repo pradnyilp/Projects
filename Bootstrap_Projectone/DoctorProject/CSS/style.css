@@ -1,0 +1,231 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 15px;
+}
+
+.section2 {
+    background-image: url(../Images/BackgroundImages/dentalimages03.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.section2img1 {
+    width: 230px;
+}
+
+.section2img2 {
+    width: 20px;
+}
+
+.section2button {
+    border-radius: 25%;
+    background-color: rgb(27, 106, 158);
+    border: none;
+}
+
+:hover.section2button {
+    background-color: aqua;
+}
+
+.call {
+    text-decoration: none;
+    color: white;
+}
+
+.callimg {
+    width: 20%;
+}
+
+.section2nav {
+    text-decoration: none;
+    color: white;
+}
+
+.section2menubar {
+    width: 20px;
+}
+
+.section3a {
+    text-align: left;
+}
+
+.section3h {
+    font-size: 50px;
+    color: aqua;
+    font-stretch: semi-expanded;
+}
+
+.section3h2 {
+    color: rgb(27, 106, 158);
+}
+
+.section3button {
+    background-color: aqua;
+    width: 180px;
+    height: 50px;
+}
+
+.section3text {
+    width: 100%;
+    height: 50px;
+}
+
+.services {
+    color: white;
+}
+
+.section4 {
+    background-image: url(../Images/BackgroundImages/dentalimages10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.section4quote {
+    width: 80%;
+}
+
+.section4get {
+    color: rgb(27, 106, 158);
+    font-size: 50px;
+}
+
+.letter {
+    width: 73%;
+}
+
+.section6a {
+    text-align: center;
+}
+
+.section6button {
+    background-color: aqua;
+    width: 250px;
+    height: 50px;
+}
+
+.section6h {
+    font-size: 60px;
+    color: rgb(27, 106, 158);
+    font-stretch: semi-expanded;
+}
+
+.section6p {
+    color: white;
+}
+
+.clock {
+    width: 15px;
+}
+
+.section8grid {
+    color: rgb(27, 106, 158);
+}
+
+.section8p {
+    color: black;
+}
+
+.contact {
+    width: 60px;
+    background-color: rgb(27, 106, 158);
+}
+
+.baseline {
+    align-items: baseline;
+}
+
+.footer1 {
+    background-image: url(../Images/BackgroundImages/dentalimages10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+.phone {
+    width: 20px;
+}
+
+.awardimg {
+    width: 200px;
+}
+
+.sectionbutton1 {
+    background-color: rgb(27, 106, 158);
+    width: 180px;
+    height: 50px;
+    color: white;
+}
+
+.sectionbutton2 {
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    color: rgb(27, 106, 158);
+}
+
+.services2 {
+    color: rgb(27, 106, 158);
+}
+
+.services1 {
+    color: white;
+}
+
+.services3 {
+    color: white;
+}
+
+.mid-left {
+    position: absolute;
+    top: 130px;
+    left:90px
+}
+
+.dimg1 {
+    background-image: url(../Images/BackgroundImages/dentalimages03.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dimg2 {
+    background-image: url(../Images/BackgroundImages/dentalimages04.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dimg3 {
+    background-image: url(../Images/BackgroundImages/dentalimages05.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
