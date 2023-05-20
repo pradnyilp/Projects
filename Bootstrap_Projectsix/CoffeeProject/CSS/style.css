@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: none;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.cart {
+    width: 25px;
+}
+
+.dimg1 {
+    background-image: url(../Images/BackgroundImges/coffe-images06.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dimg2 {
+    background-image: url(../Images/BackgroundImges/coffe-images09.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dimg3 {
+    background-image: url(../Images/BackgroundImges/coffe-images26.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.buy {
+    background-image: url(../Images/BackgroundImges/coffe-images21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tech {
+    background-image: url(../Images/BackgroundImges/coffe-images15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.back {
+    background-image: url(../Images/BackgroundImges/car-images03.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.mid-left {
+    position: absolute;
+    top: 25%;
+    padding-left: 20px;
+
+}
+
+.header {
+    color: white;
+}
+
+.services2 {
+    color: white;
+    font-size: 50px;
+}
+
+.services3 {
+    color: white;
+    font-size: 20px;
+}
+
+.bg {
+    background-color: white;
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+}
+
+.login {
+    color: white;
+}
+
+.sectionbutton1 {
+    background-color: rgba(76, 46, 212, 0.819);
+    color: white;
+}
+
+.load {
+    background-color: rgb(89, 89, 89);
+    color: black;
+}
+
+.navlogo {
+    width: 30px;
+    color: white;
+}
+
+.hover div {
+    position: relative;
+    transform: scale(0);
+    transition: .3s ease-in-out;
+    bottom: 50px;
+}
+
+.hover:hover div {
+    transform: scale(1.2);
+}
+
+.hover div button {
+    background-color: white;
+    color: black;
+}
+
+.hover div:hover button {
+    background-color: black;
+    color: white;
+}
+
+.projects {
+    background-color: black;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+}
+
+.subscribe {
+    color: white;
+}
+
+.footlogo {
+    background-color: white;
+}
